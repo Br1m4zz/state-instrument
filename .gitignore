@@ -1,0 +1,5 @@
+.vscode/
+state_rt.a
+state_rt.o
+SVInstPass.o
+SVInstrument_Pass.so
