@@ -1,4 +1,4 @@
-# 功能简述
+# Intro
 ## instrument
 `clang-10 -fno-discard-value-names -Xclang -load -Xclang /home/lwfdev/state_instruement/SVInstrument_Pass.so`
 
